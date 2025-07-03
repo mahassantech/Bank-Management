@@ -1,0 +1,9 @@
+ACCOUNT_TYPE=(
+    ('SAVINGS','SAVINGS'),
+    ('CURRENT','CURRENT'),
+)
+GENDER=(
+    ('MALE','MALE'),
+    ('FEMALE','FEMALE'),
+    ('OTHERS','OTHERS'),
+)
