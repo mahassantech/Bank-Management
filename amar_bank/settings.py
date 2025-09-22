@@ -108,7 +108,7 @@ WSGI_APPLICATION = 'amar_bank.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 DATABASES = {
     'default':dj_database_url.config(
-        default='postgresql://amarbank_auyx_user:lzAVWGx0uYRdNJJHbT6laHoUcHxcMXkU@dpg-d1j5q395pdvs73cru3og-a.oregon-postgres.render.com/amarbank_auyx'
+        default='postgresql://amarbank_ipwq_user:SO1pk9d2AHUIkkjG2YngZAAS2nltJXYi@dpg-d38q2gur433s73fouou0-a.oregon-postgres.render.com/amarbank_ipwq'
         
     )
 }
